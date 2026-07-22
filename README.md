@@ -50,4 +50,4 @@ Interests: agentic systems · RAG pipelines · offline-first architecture. Readi
 
 ---
 
-🌐 [luke-toluwalase.tech](https://www.luke-toluwalase.tech) · 💼 [LinkedIn](https://linkedin.com/in/PASTE-YOUR-URL)
+🌐 [luke-toluwalase.tech](https://www.luke-toluwalase.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/luke-toluwalase-oladejo)
