@@ -15,7 +15,7 @@ Production engineer. I ship systems under real constraints — unreliable networ
 
 ---
 
-## 🇬🇧 Current focus
+## Current focus
 
 Agentic AI systems for UK small firms: **booking automation, lead qualification, and compliance triage** for letting agents and accountancy practices.
 
@@ -33,7 +33,7 @@ Agentic AI systems for UK small firms: **booking automation, lead qualification,
 ## Now
 
 <details open>
-<summary>🇬🇧 Agentic AI systems for UK small firms</summary>
+<summary>Agentic AI systems for UK small firms</summary>
 <br>
 Booking automation, lead qualification, and compliance triage for letting agents and accountancy practices.
 </details>
